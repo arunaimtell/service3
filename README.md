@@ -3,7 +3,7 @@
 Cloudflare Workers is a serverless platform which offers a [very cheap and highly scalable](https://workers.cloudflare.com/) way to serve your React application and run other serverless code. This is a fresh CRA project which automatically deploys to Cloudflare Workers with Github Actions, which you can fork and set up in a matter of minutes.
 
 This setup costs \$5/mo for **10 million requests per month.**
-
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/arunaimtell/service3)
 ## Pre-requisites
 
 You'll need a [Cloudflare Workers account](https://dash.cloudflare.com/sign-up/workers) with
